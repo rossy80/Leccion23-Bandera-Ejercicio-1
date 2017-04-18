@@ -1,17 +1,18 @@
 div {
   display: block;
-  width: 300px;
+  width: 150px;
   height: 50px;
 }
 
 .amarillo {
+  margin: 20px;
   background-color: #FFFF00;
 }
 .rosa {
-  border: solid 1px;
-  border-color: black;
-  background-color: #FF5753
+  margin: 20px;
+  background-color: #FF5753;
 }
 .amarillo2 {
-  background-color: #FFFF00
+  margin: 20px;
+  background-color: #FFFF00;
 }
