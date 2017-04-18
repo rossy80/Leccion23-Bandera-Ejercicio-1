@@ -20,12 +20,15 @@ span {
 }
 
 .contenedor {
-  display: inline-block;
-  
+  display: block;
   width: 500px;
   height: 145px;
   border: solid 2px;
   border-color: green;
   margin: 20px;
   padding: 10px;
+}
+
+.caja2 {
+  display: inline-block;
 }
