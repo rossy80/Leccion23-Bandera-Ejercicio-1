@@ -1,15 +1,31 @@
-span {
-  display: inline-block;
-  width: 160px;
-  height: 40px;
+div {
+  width: 100px;
+  height: 100px;
+  border: solid 2px;
+  border-color: green;
+  background-color: #00FF99;
+  margin: 20px;
+  padding: 10px;
 }
 
-.amarillo {
-  background-color: #FFFF00;
+span {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: solid 2px;
+  border-color: green;
+  background-color: #00FF99;
+  margin: 20px;
+  padding: 10px;
 }
-.rosa {
-  background-color: #FF5753;
-}
-.amarillo2 {
-  background-color: #FFFF00;
+
+.contenedor {
+  display: inline-block;
+  
+  width: 500px;
+  height: 145px;
+  border: solid 2px;
+  border-color: green;
+  margin: 20px;
+  padding: 10px;
 }
